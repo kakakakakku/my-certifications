@@ -1,6 +1,6 @@
 # 取得資格数
 
-* 30個
+* 31個
 
 # 取得資格一覧
 
@@ -36,3 +36,4 @@
 | 2012年09月 | JSTQB 認定テスト技術者資格Foundation Level1 |
 | 2013年12月 | Ruby Association Certified Ruby Programmer Silver |
 | 2014年10月 | Rails3技術者認定ブロンズ試験 |
+| 2015年02月 | ネットマーケティング検定 |
