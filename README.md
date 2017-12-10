@@ -1,6 +1,6 @@
 # 取得資格数
 
-* 33個
+* 34個
 
 # 取得資格一覧
 
@@ -39,3 +39,4 @@
 | 2015年02月 | ネットマーケティング検定 |
 | 2015年03月 | Certified Scrum Master (CSM) |
 | 2015年05月 | Ruby Association Certified Ruby Programmer Gold version 2.1 |
+| 2016年08月 | AWS 認定ソリューションアーキテクト – アソシエイト |
